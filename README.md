@@ -1,2 +1,3 @@
 # first_Project-demo
-this is my first Git repository
+This is my first Git repository
+Autor = Pooja giri
